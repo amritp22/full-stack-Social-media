@@ -20,9 +20,9 @@ This is a social media application that allows users to register, log in, create
 - **User List**: A sidebar displaying all registered users for easy interaction.
 
 ## Technologies Used
-- **Frontend**: React, Redux (if applicable), HTML, CSS
+- **Frontend**: React, Redux, HTML, Tailwind CSS
 - **Backend**: Spring Boot, Java, JWT for authentication
-- **Database**: MySQL (or your chosen database)
+- **Database**: MySQL
 - **Image Upload**: Cloudinary for storing images
 
 ## Application Overview
